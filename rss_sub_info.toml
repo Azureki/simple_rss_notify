@@ -1,0 +1,6 @@
+tg_token = "xxxx:xxxx"
+tg_chat_id = "1234"
+
+[[subs]]
+name = "sub_name"
+url = "sub_url"
